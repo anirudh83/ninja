@@ -137,7 +137,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.11</version>
+			<version>1.1.11</version>
 		</dependency>
 
 		<!-- Some nice stuff for handling IO. Some overlap with guava though... -->
