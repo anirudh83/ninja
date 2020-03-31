@@ -123,7 +123,7 @@
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
-			<version>1.7</version>
+			<version>1.13</version>
 		</dependency>
 
 		<!-- Enrcyption libraray providing support for blowfish -->
