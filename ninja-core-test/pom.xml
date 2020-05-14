@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>org.fluentlenium</groupId>
 			<artifactId>fluentlenium-core</artifactId>
-			<version>0.6.0</version>
+			<version>0.10.6</version>
 		</dependency>
         
         <!--HttpCient is used to mainly test low level Json Apis -->
