@@ -123,7 +123,7 @@
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
-			<version>1.7</version>
+			<version>1.13</version>
 		</dependency>
 
 		<!-- Enrcyption libraray providing support for blowfish -->
@@ -137,7 +137,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.11</version>
+			<version>1.1.11</version>
 		</dependency>
 
 		<!-- Some nice stuff for handling IO. Some overlap with guava though... -->
@@ -206,14 +206,14 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>5.0.0.Final</version>
+			<version>6.0.19.Final</version>
 		</dependency>
 
 		<!-- XML parsing -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-xml</artifactId>
-			<version>2.1.4</version>
+			<version>2.9.9</version>
 		</dependency>
 	
 	</dependencies>
