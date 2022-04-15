@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.ninjaframework</groupId>
 			<artifactId>ninja-core</artifactId>
-			<version>1.4.5-SNAPSHOT</version>
+			<version>5.2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.ninjaframework</groupId>
