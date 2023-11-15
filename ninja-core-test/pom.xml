@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.ninjaframework</groupId>
 			<artifactId>ninja-core</artifactId>
-			<version>1.4.5-SNAPSHOT</version>
+			<version>6.9.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.ninjaframework</groupId>
@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>org.fluentlenium</groupId>
 			<artifactId>fluentlenium-core</artifactId>
-			<version>0.6.0</version>
+			<version>0.11.0</version>
 		</dependency>
         
         <!--HttpCient is used to mainly test low level Json Apis -->
